@@ -1,0 +1,29 @@
+Git
+Gestion des versions/conflits
+historique, comment, où... Deploiement...
+
+COde maintenable, important...
+Code collaboratif
+Projets propres/compréhensibles
+
+Notions : Dépôt, clonage, fork
+
+Dépôt : GIt init, historique + visibilité(blaming);
+
+Clonage : copier un dépôt
+FOrk = Créer un embranchement;
+
+Add/commit : add : suivre le chargement, mettre sur le git.w
+commit : verrouillage de ceux modifiés==> point dans l'historique. + ajouter au git.
+Remote = serveur
+local = ordi local;
+
+Branches :
+  si un collègue travaille déjà sur le site par exemple, on crée une branche et on travaille desssus.
+  commit = noeud dans la branche
+  merge  = mélange de deux branches
+  git branch : liste des branches
+  git checkout <name> basculement sur la branche name
+
+  rebasing : remettre tout dans la même base
+  permet de rebaser les commits.
